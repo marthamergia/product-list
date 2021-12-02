@@ -7,6 +7,13 @@
   pointer-events: none;
 }
 
+.nav {
+  height: 8vh;
+  background-color: #61dafb;
+  display: flex;
+  justify-content: space-around;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
